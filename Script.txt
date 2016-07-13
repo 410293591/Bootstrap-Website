@@ -1,1 +1,3 @@
 Pealse flow this script to initialize database.
+==================================================
+What should I do with this project?
