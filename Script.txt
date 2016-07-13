@@ -1,0 +1,1 @@
+Pealse flow this script to initialize database.
